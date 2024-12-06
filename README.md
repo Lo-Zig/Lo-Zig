@@ -11,4 +11,3 @@
 
 ### Projetos Destacados
 [TrasHealth, software de informação e mapeamento de pontos de descarte de lixo eltrônico em Xanxerê ][https://github.com/Lo-Zig/TrasHealth]
-z
