@@ -10,4 +10,5 @@
 - ⚡ Fato curioso: Fui campeão de CS no Instituto Federal de Santa Catarina (IFSC)
 
 ### Projetos Destacados
-[TrasHealth, software de informação e mapeamento de pontos de descarte de lixo eltrônico em Xanxerê ]([link_do_projeto](https://github.com/Lo-Zig/TrasHealth))
+[TrasHealth, software de informação e mapeamento de pontos de descarte de lixo eltrônico em Xanxerê ][https://github.com/Lo-Zig/TrasHealth]
+z
