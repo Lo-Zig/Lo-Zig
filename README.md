@@ -5,6 +5,7 @@
 ### Sobre Mim
 - 🔭 Atualmente estou trabalhando em Front-End na AMB Soluções / loQQuei.LTDA
 - 🌱 Estou aprendendo JavaScript, React-Native, Flutter e Python
+- 🪛 Técnico em Informática 
 - 👯 Procuro colaborar em tudo que eu puder
 - 💬 Pergunte-me sobre Counter-Strike, pai da aulas
 - ⚡ Fato curioso: Fui campeão de CS no Instituto Federal de Santa Catarina (IFSC)
